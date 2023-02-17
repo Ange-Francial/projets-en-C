@@ -1,0 +1,7 @@
+NOMS			::	PRENOMS			::	NOTE
+
+mbiapo			::	ange			::	19
+zuo			::	yan			::	12
+kjlsa			::	adsjjykasluhdskl		::	12
+
+ykules			::	sdluk			::	12
